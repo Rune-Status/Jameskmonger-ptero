@@ -1,0 +1,16 @@
+{
+  "name": "ptero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.10.17",
+    "typescript": "^2.8.3"
+  }
+}
